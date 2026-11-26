@@ -1,0 +1,23 @@
+{
+  "repo": "spark-mail-complete-access",
+  "product": "Spark Mail Complete Access",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "spark-mail-access",
+    "spark-mail",
+    "how-to-install-spark-mail",
+    "how-to-setup-spark-mail",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "spark-access",
+    "spark-mail-complete"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Spark Mail Complete Access"
+}
